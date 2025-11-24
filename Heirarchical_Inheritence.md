@@ -77,5 +77,6 @@ patient.getPatientDetails()
 ```
 ## Sample Output
 <img width="775" height="610" alt="image" src="https://github.com/user-attachments/assets/0dd01251-a11d-4636-a4ff-9356f33deada" />
+
 ## Result
 The program is successfully excexuted
